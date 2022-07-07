@@ -55,3 +55,7 @@ table {
 button{
 	background-color: #fff;
 }
+
+button:hover{
+	cursor: pointer;
+}
