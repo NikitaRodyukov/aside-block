@@ -1,0 +1,14 @@
+aside{
+    width: 320px;
+
+    box-shadow: -2px 0px 4px rgba(69, 79, 126, 0.02), 
+                16px 0px 52px rgba(14, 24, 80, 0.2);
+
+    font-family: 'TT Lakes Regular';
+}
+
+.aside-header__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
