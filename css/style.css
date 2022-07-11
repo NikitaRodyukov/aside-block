@@ -7,6 +7,15 @@ aside{
     font-family: 'TT Lakes Regular';
 }
 
+button{
+    opacity: 1;
+    transition: opacity 0.25s ease-out;
+}
+
+button:hover,
+button:focus{
+    opacity: 0.8;
+}
 .aside-header__wrapper{
     display: flex;
     justify-content: space-between;
